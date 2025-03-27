@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="30dp"
+    tools:context=".MainActivity">
+
+    <!--    <com.zoomsaill.dmo2.CustomBarChart-->
+    <!--        android:layout_width="300dp"-->
+    <!--        android:layout_height="100dp"/>-->
+    <!--    <com.zoomsaill.dmo2.BarChartView-->
+    <!--        android:layout_width="300dp"-->
+    <!--        android:layout_height="100dp"/>-->
+
+    <!--    <com.github.mikephil.charting.charts.BarChart-->
+    <!--        android:id="@+id/chart"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="match_parent" />-->
+
+    <!--    <com.github.mikephil.charting.charts.LineChart-->
+    <!--        android:id="@+id/line_chart"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="match_parent" />-->
+
+    <!--    <ProgressBar-->
+    <!--        android:id="@+id/progressBar"-->
+    <!--        style="?android:attr/progressBarStyleHorizontal"-->
+    <!--        android:layout_width="300dp"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:background="@drawable/custom_progress_bar"-->
+    <!--        android:max="100"-->
+    <!--        android:progress="30"-->
+    <!--        android:secondaryProgress="50" />-->
+
+    <!--    <com.zoomsaill.dmo2.CustomProgressBar-->
+    <!--        style="?android:attr/progressBarStyleHorizontal"-->
+    <!--        android:id="@+id/custom_progress_bar"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content" />-->
+
+    <!--    <RelativeLayout-->
+    <!--        android:layout_width="300dp"-->
+    <!--        android:layout_height="20dp">-->
+    <!--        <com.zoomsaill.dmo2.HorizontalThirdProgressBar-->
+    <!--            android:id="@+id/stressIndex_progress_bar"-->
+    <!--            android:layout_centerInParent="true"-->
+    <!--            android:layout_width="295dp"-->
+    <!--            android:layout_height="10dp"/>-->
+    <!--        <RelativeLayout-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="match_parent"-->
+    <!--            android:background="@drawable/round_rect">-->
+
+    <!--        </RelativeLayout>-->
+    <!--    </RelativeLayout>-->
+
+    <com.zoomsaill.dmo2.HorizontalSixthProgressBar
+        android:id="@+id/stressIndex_progress_bar"
+        android:layout_width="295dp"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true" />
+
+    <com.zoomsaill.dmo2.HorizontalSixthProgressBar
+        android:id="@+id/ans_sixth_progress_bar"
+        android:layout_width="295dp"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="30dp" />
+
+    <com.zoomsaill.dmo2.HorizontalSixthProgressBar
+        android:id="@+id/hrv_sixth_progress_bar"
+        android:layout_width="295dp"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="30dp" />
+
+
+</LinearLayout>

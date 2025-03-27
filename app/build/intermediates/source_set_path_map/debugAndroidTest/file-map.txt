@@ -1,0 +1,6 @@
+com.zoomsaill.dmo2.test.app-core-1.5.0-0 C:\Users\w\.gradle\caches\transforms-3\c8607414e9ae04aaf80b1bde0a39360d\transformed\core-1.5.0\res
+com.zoomsaill.dmo2.test.app-annotation-experimental-1.4.0-1 C:\Users\w\.gradle\caches\transforms-3\dff582b37db6d400c31ea4e3033b5841\transformed\annotation-experimental-1.4.0\res
+com.zoomsaill.dmo2.test.app-androidTest-2 F:\Workspace\HorizontalSixthProgressBar\app\build\generated\res\resValues\androidTest\debug
+com.zoomsaill.dmo2.test.app-mergeDebugAndroidTestResources-3 F:\Workspace\HorizontalSixthProgressBar\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.zoomsaill.dmo2.test.app-mergeDebugAndroidTestResources-4 F:\Workspace\HorizontalSixthProgressBar\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.zoomsaill.dmo2.test.app-merged_res-5 F:\Workspace\HorizontalSixthProgressBar\app\build\intermediates\merged_res\debugAndroidTest
